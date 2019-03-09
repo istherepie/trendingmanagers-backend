@@ -1,0 +1,7 @@
+[package]
+name = "trendingmanagers-backend"
+version = "0.1.0"
+authors = ["Steffen Park <dev@istherepie.com>"]
+edition = "2018"
+
+[dependencies]

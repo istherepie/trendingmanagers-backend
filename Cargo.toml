@@ -5,3 +5,5 @@ authors = ["Steffen Park <dev@istherepie.com>"]
 edition = "2018"
 
 [dependencies]
+ws = "*"
+rustc-serialize = "*"
